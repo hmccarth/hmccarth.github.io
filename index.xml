@@ -49,10 +49,10 @@
     
     <item>
       <title>Getting Sentimental: An Analysis of Twin Cities Tweets and Headlines</title>
-      <link>/portfolio/work7/</link>
+      <link>/portfolio/twitteranalysis/</link>
       <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
       
-      <guid>/portfolio/work7/</guid>
+      <guid>/portfolio/twitteranalysis/</guid>
       <description>&lt;p&gt;As a final project for my Intro to Data Science course I worked with four other students to analyze tweets and news headlines that mention Mayors Melvin Carter and Jacob Frey of St. Paul and Minneapolis, respectively. This was an exciting project that allowed me to expand my data wrangling and visualization skills using RStudio.&lt;/p&gt;</description>
     </item>
     
@@ -111,6 +111,16 @@ I first became interested in spending this summer with The Nature Conservancy wh
       
       <guid>/portfolio/work12/</guid>
       <description>&lt;p&gt;While I was studying abroad in Mongolia I had the chance to complete a rapid-fire, three-day externship with a local non-profit called the Ger Community Mapping Center (GCMC). At GCMC I created an infographic highlighting UN Sustainable Development Goals as they pertain to Mongolia&amp;rsquo;s capital.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>California on Fire: Continued Learning in Fire Ecology and Adobe InDesign</title>
+      <link>/portfolio/fireinfographic/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>/portfolio/fireinfographic/</guid>
+      <description>While in an Ecology class this semester, I spearheaded the creation of an infographic for a group project on fire ecology. Using some sources that I was already familiar with from my fire ecology story map (such as the San Francisco Chronicle Wildfire Tracker), I was able to create a spread that offered additional information on fire ecology.
+To create the map, I took screenshots of the Chronicle&amp;rsquo;s Wildfire Tracker and then georectified the images in ArcMap to create point features for each fire.</description>
     </item>
     
     <item>
