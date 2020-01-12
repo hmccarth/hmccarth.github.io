@@ -6,10 +6,19 @@
     <description>Recent content in Portfolios on Henry McCarthy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 05 Nov 2016 19:44:32 +0530</lastBuildDate>
     
 	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Bagpiper&#39;s Guide to the US: Exploring Spatial and Gender Patterns in the Pipe Band Community</title>
+      <link>/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>/portfolio/work3/</guid>
+      <description>I have been playing bagpipes for more than ten years and I have often found that when I talk to non-piping friends about my experience playing in a pipe band, they are usually surprised that a pipe band has more than just bagpipers in it. Following countless conversations in the same vein and wanting to put numbers to demographic disparities I have noticed in the pipe band community over the past few years, I decided to create a visualization.</description>
+    </item>
     
     <item>
       <title>Brochure Building: Toson Hulstai Nature Preserve</title>
@@ -21,12 +30,48 @@
     </item>
     
     <item>
-      <title>A Bagpiper&#39;s Guide to the US: Exploring Spatial and Gender Patterns in the Pipe Band Community</title>
-      <link>/portfolio/work3/</link>
+      <title>Getting Sentimental: An Analysis of Twin Cities Tweets and Headlines</title>
+      <link>/portfolio/twitteranalysis/</link>
+      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      
+      <guid>/portfolio/twitteranalysis/</guid>
+      <description>&lt;p&gt;As a final project for my Intro to Data Science course, I worked with four other students to analyze tweets and news headlines that mention Mayors Melvin Carter and Jacob Frey of St. Paul and Minneapolis, respectively. This was an exciting project that allowed me to expand my data wrangling and visualization skills using RStudio.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cultural Atlas Production</title>
+      <link>/portfolio/culturalatlas/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>/portfolio/work3/</guid>
-      <description>I have been playing bagpipes for more than ten years and I have often found that when I talk to non-piping friends about my experience playing in a pipe band, they are usually surprised that a pipe band has more than just bagpipers in it. Following countless conversations in the same vein and wanting to put numbers to demographic disparities I have noticed in the pipe band community over the past few years, I decided to create a visualization.</description>
+      <guid>/portfolio/culturalatlas/</guid>
+      <description>&lt;p&gt;The text for this page is in progress!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Water Supply Planning at the Met Council</title>
+      <link>/portfolio/metcouncil/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      
+      <guid>/portfolio/metcouncil/</guid>
+      <description>&lt;p&gt;Since June of 2019, I have been an intern in the Water Supply Planning unit of the Metropolitan Council of the Twin Cities.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Brushing Up and Starting Fresh: Esri Story Maps, Adobe Animate, and Fire Ecology</title>
+      <link>/portfolio/work8/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>/portfolio/work8/</guid>
+      <description>&lt;p&gt;One of my favorite classes at Macalester was Advanced Cartography and Geovisualization. For one of the assignments, I was tasked with creating a dynamic visualization using a new or somewhat unfamiliar platform. Interested in learning about animation in Adobe, I decided to create a series of short animations to illustrate concepts in fire ecology (a field that I have long been curious about but have not studied in detail). Wanting to stay up to date with Esri Story Maps, I decided to use this as a platform to host my animations.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Defining a Style</title>
+      <link>/portfolio/work10/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      
+      <guid>/portfolio/work10/</guid>
+      <description>&lt;p&gt;This was one of my favorite assignments from the Advanced Cartography and Geovisualization class I took in the fall of 2018. We were instructed to create a style sheet for just about anything, so having a bit of experience creating my TNC Mongolia brochure, I decided to further develop what I envisioned the National Parks &amp;ldquo;style&amp;rdquo; to be.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -39,21 +84,22 @@
     </item>
     
     <item>
+      <title>California on Fire: Continued Learning in Fire Ecology and Adobe InDesign</title>
+      <link>/portfolio/fireinfographic/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>/portfolio/fireinfographic/</guid>
+      <description>While in an Ecology class in the spring of 2019, I spearheaded the creation of an infographic for a group project on fire ecology. Using some sources that I was already familiar with from my fire ecology story map (such as the San Francisco Chronicle Wildfire Tracker), I was able to create a poster that offered additional information on fire ecology.
+To create the map, I took screenshots of the Chronicle&amp;rsquo;s Wildfire Tracker and then georeferenced the images in ArcMap to create point features for each fire.</description>
+    </item>
+    
+    <item>
       <title>Dengue Risk Assessment on the Island of Hawaii</title>
       <link>/portfolio/work5/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       
       <guid>/portfolio/work5/</guid>
       <description>&lt;p&gt;Macalester College / Advanced Geospatial Analysis / Spring 2018&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Getting Sentimental: An Analysis of Twin Cities Tweets and Headlines</title>
-      <link>/portfolio/twitteranalysis/</link>
-      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
-      
-      <guid>/portfolio/twitteranalysis/</guid>
-      <description>&lt;p&gt;As a final project for my Intro to Data Science course, I worked with four other students to analyze tweets and news headlines that mention Mayors Melvin Carter and Jacob Frey of St. Paul and Minneapolis, respectively. This was an exciting project that allowed me to expand my data wrangling and visualization skills using RStudio.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -69,12 +115,12 @@ I first became interested in spending this summer with The Nature Conservancy wh
     </item>
     
     <item>
-      <title>Brushing Up and Starting Fresh: Esri Story Maps, Adobe Animate, and Fire Ecology</title>
-      <link>/portfolio/work8/</link>
-      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      <title>Sustainable Development Goals in Mongolia</title>
+      <link>/portfolio/work12/</link>
+      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
       
-      <guid>/portfolio/work8/</guid>
-      <description>&lt;p&gt;One of my favorite classes at Macalester was Advanced Cartography and Geovisualization. For one of the assignments, I was tasked with creating a dynamic visualization using a new or somewhat unfamiliar platform. Interested in learning about animation in Adobe, I decided to create a series of short animations to illustrate concepts in fire ecology (a field that I have long been curious about but have not studied in detail). Wanting to stay up to date with Esri Story Maps, I decided to use this as a platform to host my animations.&lt;/p&gt;</description>
+      <guid>/portfolio/work12/</guid>
+      <description>&lt;p&gt;While I was studying abroad in Mongolia I had the chance to complete a rapid-fire, three-day externship with a local non-profit called the Ger Community Mapping Center (GCMC). At GCMC I created an infographic highlighting UN Sustainable Development Goals as they pertain to Mongolia&amp;rsquo;s capital.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -87,58 +133,12 @@ I first became interested in spending this summer with The Nature Conservancy wh
     </item>
     
     <item>
-      <title>Defining a Style</title>
-      <link>/portfolio/work10/</link>
-      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
-      
-      <guid>/portfolio/work10/</guid>
-      <description>&lt;p&gt;This was one of my favorite assignments from the Advanced Cartography and Geovisualization class I took in the fall of 2018. We were instructed to create a style sheet for just about anything, so having a bit of experience creating my TNC Mongolia brochure, I decided to further develop what I envisioned the National Parks &amp;ldquo;style&amp;rdquo; to be.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Freelance</title>
       <link>/portfolio/work11/</link>
       <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
       
       <guid>/portfolio/work11/</guid>
       <description>&lt;p&gt;In addition to class projects and internships, I have done some work as a freelance cartographer and graphic designer. I am always eager to take on new projects so feel free to get in touch!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Sustainable Development Goals in Mongolia</title>
-      <link>/portfolio/work12/</link>
-      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
-      
-      <guid>/portfolio/work12/</guid>
-      <description>&lt;p&gt;While I was studying abroad in Mongolia I had the chance to complete a rapid-fire, three-day externship with a local non-profit called the Ger Community Mapping Center (GCMC). At GCMC I created an infographic highlighting UN Sustainable Development Goals as they pertain to Mongolia&amp;rsquo;s capital.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>California on Fire: Continued Learning in Fire Ecology and Adobe InDesign</title>
-      <link>/portfolio/fireinfographic/</link>
-      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
-      
-      <guid>/portfolio/fireinfographic/</guid>
-      <description>While in an Ecology class in the spring of 2019, I spearheaded the creation of an infographic for a group project on fire ecology. Using some sources that I was already familiar with from my fire ecology story map (such as the San Francisco Chronicle Wildfire Tracker), I was able to create a poster that offered additional information on fire ecology.
-To create the map, I took screenshots of the Chronicle&amp;rsquo;s Wildfire Tracker and then georeferenced the images in ArcMap to create point features for each fire.</description>
-    </item>
-    
-    <item>
-      <title>Water Supply Planning at the Met Council</title>
-      <link>/portfolio/metcouncil/</link>
-      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
-      
-      <guid>/portfolio/metcouncil/</guid>
-      <description>&lt;p&gt;Since June of 2019, I have been an intern in the Water Supply Planning unit of the Metropolitan Council of the Twin Cities.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Cultural Atlas Production</title>
-      <link>/portfolio/culturalatlas/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      
-      <guid>/portfolio/culturalatlas/</guid>
-      <description>&lt;p&gt;The text for this page is in progress!&lt;/p&gt;</description>
     </item>
     
   </channel>

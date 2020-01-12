@@ -3,23 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/portfolio/work2/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/portfolio/work3/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work4/</loc>
+    <loc>/portfolio/work2/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/portfolio/work5/</loc>
-    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
   </url>
   
   <url>
@@ -28,7 +18,12 @@
   </url>
   
   <url>
-    <loc>/portfolio/work6/</loc>
+    <loc>/portfolio/culturalatlas/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/metcouncil/</loc>
     <lastmod>2016-11-05T19:57:40+05:30</lastmod>
   </url>
   
@@ -38,23 +33,13 @@
   </url>
   
   <url>
-    <loc>/portfolio/work9/</loc>
-    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/portfolio/work10/</loc>
     <lastmod>2016-11-05T20:22:08+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work11/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/portfolio/work12/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+    <loc>/portfolio/work4/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
@@ -63,13 +48,28 @@
   </url>
   
   <url>
-    <loc>/portfolio/metcouncil/</loc>
+    <loc>/portfolio/work5/</loc>
+    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/work6/</loc>
     <lastmod>2016-11-05T19:57:40+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/culturalatlas/</loc>
-    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+    <loc>/portfolio/work12/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/work9/</loc>
+    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/work11/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
   </url>
   
   <url>
@@ -94,7 +94,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -106,7 +106,7 @@
   
   <url>
     <loc>/portfolio/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
     <priority>0</priority>
   </url>
   
